@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Nicholas Fury",
+    "image": "https://media.buymoviejackets.co.uk/wp-content/uploads/2015/05/Captain-America-Nick-Fury-black-coat.jpg",
+    "occupation": "Director",
+    "location": "SHIELD HQ"
+  },
+  {
+    "id": 2,
+    "name": "Maria Hill",
+    "image": "https://static.comicvine.com/uploads/original/11/113509/6656975-maria%20aos.jpg",
+    "occupation": "Commander Maria Hill",
+    "location": "SHIELD HQ"
+  },
+  {
+    "id": 3,
+    "name": "Steven Rogers",
+    "image": "https://i.pinimg.com/564x/9b/76/75/9b767505f5a5df3df348a898ba4ae8bb.jpg",
+    "occupation": "Captain America",
+    "location": "Brooklyn, NY"
+  },
+  {
+    "id": 4,
+    "name": "Bruce Banner",
+    "image": "https://i.pinimg.com/564x/c2/36/bc/c236bc8b910fd638d7b43ddc670f55de.jpg",
+    "occupation": "Physicist/The Hulk",
+    "location": "Dayton, OH"
+  },
+  {
+    "id": 5,
+    "name": "Tony Stark",
+    "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/1-tony-stark-iron-man-geek-n-rock.jpg",
+    "occupation": "Ironman",
+    "location": "Malibu, CA"
+  },
+  {
+    "id": 6,
+    "name": "Natasha Romanoff",
+    "image": "https://i.pinimg.com/originals/c9/29/3d/c9293d844ad1086f9d9e9085aa4a4ae2.jpg",
+    "occupation": "Black Widow",
+    "location": "Stalingrad, Russia"
+  },
+  {
+    "id": 7,
+    "name": "Peter Parker",
+    "image": "https://vignette.wikia.nocookie.net/tomholland/images/2/23/Spider-man.png/revision/latest/top-crop/width/360/height/450?cb=20161223133641",
+    "occupation": "Spiderman",
+    "location": "Queens, NY"
+  },
+  {
+    "id": 8,
+    "name": "Scott Lang",
+    "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/avengers-endgame-ant-man-geek-n-rock.jpg",
+    "occupation": "Ant-Man",
+    "location": "Atlanta, GA"
+  },
+  {
+    "id": 9,
+    "name": "Carol Danvers",
+    "image": "https://im.rediff.com/movies/2019/mar/06captain-marvel1.jpg",
+    "occupation": "Captain Marvel",
+    "location": "Boston, MA"
+  },
+  {
+    "id": 10,
+    "name": "Clint Barton",
+    "image": "https://images.wallpapersden.com/image/download/hawkeye-in-avengers-endgame_64430_750x1334.jpg",
+    "occupation": "Hawkeye",
+    "location": "Waverly, IA"
+  },
+  {
+    "id": 11,
+    "name": "Peter Quill",
+    "image": "https://images.8tracks.com/cover/i/010/168/178/sl-6142.png?rect=0,44,590,590&q=98&fm=jpg&fit=max",
+    "occupation": "Starlord",
+    "location": "Galaxy"
+  },
+  {
+    "id": 12,
+    "name": "Steven Strange",
+    "image": "https://vignette.wikia.nocookie.net/ultimate-marvel-cinematic-universe/images/6/61/Doc.jpg/revision/latest?cb=20160117222945",
+    "occupation": "Dr. Strange",
+    "location": "New York, NY"
+  }
+]
